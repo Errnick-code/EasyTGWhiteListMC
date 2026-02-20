@@ -281,6 +281,8 @@ const PREFIXES = ['!EC', '!ЕС'];
 - Node.js 18+
 - Включённый RCON
 - Telegram Bot Token
+- npm install node-telegram-bot-api rcon-client
+- (Без библиотек работать не будет)
 
 ---
 
