@@ -1,0 +1,18 @@
+# Переменные окружения
+.env
+.env.local
+.env.production
+
+# Разрешить пример
+!.env.example
+
+# Данные бота
+BotFile/
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Система
+.DS_Store
+Thumbs.db
